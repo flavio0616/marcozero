@@ -1,0 +1,46 @@
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #004d61;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin: 5px 0;
+}
+
+nav a {
+    color: #ffd700;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+figure img {
+    width: 100%;
+    max-width: 250px;
+    margin: 5px;
+    
+}
+
+/* Estilo para o rodapé */
+footer {
+    background-color: #004d61;
+    color: white;
+    padding: 10px;
+    font-size: 0.9em;
+}
